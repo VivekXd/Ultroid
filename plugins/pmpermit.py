@@ -13,7 +13,7 @@
 • `{i}da` or `{i}disapprove`
     To Disapprove Someone In PM.
 
-• `{i}block`
+• `{i}fuckoff`
     To Block Someone in PM.
 
 • `{i}unblock` | `{i}unblock all`
